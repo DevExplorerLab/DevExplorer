@@ -5,7 +5,7 @@ Yazılım geliştirme ve teknolojiye olan tutkum, beni buraya getirdi. Bilgisaya
 ---
 
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmarketplace%2Factions%2Fsnake-game-generator-from-github-contributions&psig=AOvVaw3VlMIB355NTHcSyePaOsuk&ust=1704877171662000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKjgkMX4z4MDFQAAAAAdAAAAABAZ" alt="Hareketli Yılan GIF">
+  <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Hareketli Yılan GIF">
 </p>
 
 ---
