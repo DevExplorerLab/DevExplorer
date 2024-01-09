@@ -1,10 +1,14 @@
-<p align="center">
-  <img src="https://example.com/your-snake-gif.gif" alt="Hareketli Yılan GIF">
-</p>
-
 # Merhaba, Ben DevExplorer! 👋
 
 Yazılım geliştirme ve teknolojiye olan tutkum, beni buraya getirdi. Bilgisayar bilimleri ve yazılım mühendisliği alanlarında sürekli kendimi geliştirmeye ve yeni şeyler öğrenmeye odaklı bir yazılım geliştiriciyim.
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l4FGvYNYq1rI8J6nO/giphy.gif" alt="Hareketli Yılan GIF">
+</p>
+
+---
 
 ## 🚀 Becerilerim:
 
