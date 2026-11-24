@@ -1,40 +1,45 @@
-# Merhaba, Ben DevExplorer! 👋
+### Merhaba, Ben Uğur Akbaş 👋
 
-Yazılım geliştirme ve teknolojiye olan tutkum, beni buraya getirdi. Bilgisayar bilimleri ve yazılım mühendisliği alanlarında sürekli kendimi geliştirmeye ve yeni şeyler öğrenmeye odaklı bir yazılım geliştiriciyim.
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Hareketli Yılan GIF">
-</p>
+Yazılım geliştirme, gömülü sistemler ve dijital üretkenlik araçlarına olan tutkum beni buraya getirdi. Web uygulamalarından 3D özelleştirme arayüzlerine, Android projelerinden ESP32/Raspberry Pi donanım sistemlerine kadar pratik ve uçtan uca çözümler geliştirmeye odaklanan bir yazılım geliştiricisiyim.
 
 ---
 
-## 🚀 Becerilerim:
+### 🚀 Becerilerim:
 
-- **Programlama Dilleri:** C#, JavaScript
-- **Web Geliştirme:** HTML, CSS, PHP
-- **Veritabanları:** MySQL
-- **Sürüm Kontrol:** Git, GitHub
+* **Programlama Dilleri:** PHP, JavaScript, C++, Java, C#
+* **Web & 3D Geliştirme:** HTML5, Tailwind CSS, Three.js, Fabric.js, Gemini API
+* **Mobil & Gömülü Sistemler:** Android Studio, ESP32-S3, Arduino, Raspberry Pi, ILI9341 TFT
+* **Veritabanları & Altyapı:** SQLite, MySQL, JSON Flat-File
+* **Sürüm Kontrol & Tasarım:** Git, GitHub, Photoshop, Canva
 
-## 💡 Proje Deneyimi:
+---
 
-1. **Minecraft Server Client:**
-   - Minecraft sunucusuna özel bir istemci ile giriş yapabilen uygulama.
+### 💡 Proje Deneyimi:
 
-2. **Otopark Otomasyonu:**
-   - Otoparka giriş yapan araçları takip eden, dolu-boş park yerlerini gösteren bir uygulama.
+1. **Tek Dosyalı E-Ticaret & ERP Sistemi:**
+   * PHP, SQLite ve Vanilla JS ile geliştirilmiş; dinamik banner yönetimi, kupon kurgusu, irsaliye/sipariş takibi, 2D/3D ürün özelleştirme ve WhatsApp sipariş akışı sunan yönetim platformu.
+2. **ESP32-S3 Dijital Araç Kokpiti:**
+   * ESP32-S3 ve ILI9341 TFT ekran kullanılarak geliştirilen; silecek kolu ile mod geçişi ve Wi-Fi web kontrol arayüzü içeren özel dijital gösterge paneli.
+3. **Yapay Zeka Destekli BEP Planlayıcı:**
+   * Gemini API entegrasyonu ile bireyselleştirilmiş eğitim programı (BEP) ve içerik üretimini hızlandıran web uygulaması.
+     
+---
 
-## 🌱 Şu anda üzerinde çalıştığım şeyler:
+### 🌱 Şu anda üzerinde çalıştığım şeyler:
 
-- "Otonom Araba Üzerinde Çalışıyorum"
+* **"ESP32-S3 / Raspberry Pi Dijital Kokpit & Akıllı Otomasyon Sistemleri"**
+* **"Tek Dosyalı ERP / E-Ticaret Altyapıları & 3D Özelleştirme Modülleri"**
 
-## 📫 İletişim:
+---
 
-- [LinkedIn](www.linkedin.com/in/ugurakbas055)
+### 📫 İletişim:
 
-## 🌍 Yaptığım Web Site:
+* [LinkedIn](https://www.linkedin.com/in/ugurakbas055)
 
-- [GökYıldızCraft](http://gokyildizcraft.net.tr/)
+---
+
+### 🌍 Yaptığım Web Siteleri ve Projeler:
+
+* [cumhuriyetelektrik.com](https://cumhuriyetelektrik.com)
 
 Teşekkür ederim ki profilimi ziyaret ettiğiniz için! İletişime geçmek veya projelerim hakkında daha fazla bilgi almak için LinkedIn profilimi ziyaret etmeyi unutmayın. 😊
